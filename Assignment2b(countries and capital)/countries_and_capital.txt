@@ -1,0 +1,11 @@
+Argentina - Buenos Aires
+Brazil - Brasilia
+Canada - Ottawa
+France - Paris
+Germany - Berlin
+Ghana - Accra
+India - New Delhi
+Japan - Tokyo
+Nigeria - FCT
+United Kingdom - London
+United States - Washington, D.C.
