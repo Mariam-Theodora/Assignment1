@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/shared":{"guestpath":"/home/vagrant/shared","hostpath":"C:/Users/Theodora/Desktop/vagrant_LAMP2.0/shared","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Theodora/Desktop/vagrant_LAMP2.0","disabled":false,"__vagrantfile":true}}}
